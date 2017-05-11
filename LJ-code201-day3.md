@@ -1,0 +1,2 @@
+# Learning Journal - Day 3
+I struggled a bit more with Question 6 than I thought I would.  I don't know if it's brain fart that never cleared or what, but I'll have a second look at it tomorrow.  I think I improved the html structure significantly, but I still don't know how to make it look professional through CSS.  I played around with the float, position, size, etc but the design is still very plain.
