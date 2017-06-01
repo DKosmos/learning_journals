@@ -1,0 +1,2 @@
+# Learning Journal Week 4 - Day 1
+Project week has gone well.  I came down with a cold over the weekend that has limited my availability at the beginning of the week, but I had finished a good chunk of work already so it was good for the rest of the group to get some coding in.  I'm not sure if we'll be able to pull off the individual tweet display without a minor html rebuild, but that may not be too daunting so we'll see how the day goes.
