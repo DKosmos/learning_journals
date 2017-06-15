@@ -1,0 +1,2 @@
+# Code 301 Learning Journal Week 1 - Day 3
+The week has gone better than Monday would suggest, but I'm still not enjoying the structure of the class.  Thankfully the pair programming hasn't been complicated enough to take longer than 2 hours, but the limited time daily reset of the code give little motivation to work on stretch goals.  On the other hand, the portfolio project is going well, and the fact that I will persist past the week give more motivation to get everything right. So this month will be a very different dynamic, but I'll still be able to learn effectively.
