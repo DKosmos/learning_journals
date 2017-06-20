@@ -1,0 +1,2 @@
+# Code 301 Learning Journal Week 2 - Day 6
+I'm glad we're working with the data now, but I'm anxious to get to the working database.  It's unfortunately that we aren't going to talk about XML much (because that's what I'll need to use with QuickBase), but I understand that JSON is the future and XML is the past.  That said, Brian said he'd find an hour to help me go over the QuickBase API so that should be enough to get me moving on the XML API work I'll need to do.
