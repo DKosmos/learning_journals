@@ -1,0 +1,2 @@
+# Code 301 Learning Journal Week 2 - Day 8
+We made a full stack app!  It was a weak app, but it was realish.  So that's cool.  There were some bugs left over in our pair programming app, but they were stretch goals, and as I mentioned before, the format doesn't really motivate us to tackle the stretch goals most days. I plan on messing around with code a bit this morning to understand what's wrong, but I didn't want to stick around at 5:30 last night to do the same.
