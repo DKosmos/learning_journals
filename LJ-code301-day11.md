@@ -1,0 +1,2 @@
+# Code 301 Learning Journal Week 3 - Day 11
+Unfortunately I wasn't about to make it to class yesterday because I had to spend the whole day finalizing the quarterly valuation reporting for work.  But that's the reality of having to split work/class and it's been pretty flexible so far.  I'm hoping to watch the video of yesterday's class before lecture begins today so I can get up to speed, because doing the reading and looking through the lab hasn't given me a good idea of how to implement the page.js and history API functionality.
