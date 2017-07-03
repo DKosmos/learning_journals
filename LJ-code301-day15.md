@@ -1,0 +1,2 @@
+# Code 301 Learning Journal Week 3 - Day 15
+Not super excited about the final project just because none of the final four options appealed to me.  I like sports so Trade Tracker was the closest thing to interesting. Conceptually I think the program will come together fine.  We're a smaller group but all of us are strong coders, so there shouldn't be a weak link.  As for the App, my only concern right now is how the Daily Transactions are formatted and how we're going to aggregate the 'transactions' into 'trades' efficiently and repeatably.
